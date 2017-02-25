@@ -2,8 +2,8 @@ import requests
 import requests.auth
 import sys
 import simplejson as json
-UID = "c1f721a77b82a71e497db588d5bfc6b6b96a4fc9454fb62a701dff0c46a38c3c"
-SECRET = "5ef096a31f5a73425c180fd311a2bc43002fae6d24bad8b7205b0ee3743ec65f"
+UID = secret
+SECRET = secret
 
 class bcolors:
 	HEADER = '\033[95m'
