@@ -1,0 +1,1602 @@
+[
+    {
+        "begin_at": "2017-02-24T18:00:01",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r3p34",
+        "id": 5226969,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22987,
+            "login": "sescolas",
+            "url": "https://api.intra.42.fr/v2/users/sescolas"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:59:44",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r4p32",
+        "id": 5226968,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19681,
+            "login": "dbotova",
+            "url": "https://api.intra.42.fr/v2/users/dbotova"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:59:34",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r4p20",
+        "id": 5226967,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19652,
+            "login": "vtenigin",
+            "url": "https://api.intra.42.fr/v2/users/vtenigin"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:53:10",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r5p39",
+        "id": 5226966,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19715,
+            "login": "zsmith",
+            "url": "https://api.intra.42.fr/v2/users/zsmith"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:50:01",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p35",
+        "id": 5226965,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21020,
+            "login": "jaleman",
+            "url": "https://api.intra.42.fr/v2/users/jaleman"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:48:47",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r8p12",
+        "id": 5226964,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22972,
+            "login": "dcastro-",
+            "url": "https://api.intra.42.fr/v2/users/dcastro-"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:48:46",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p39",
+        "id": 5226963,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 20936,
+            "login": "achi",
+            "url": "https://api.intra.42.fr/v2/users/achi"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:46:55",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r10p6",
+        "id": 5226962,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 23033,
+            "login": "imoran",
+            "url": "https://api.intra.42.fr/v2/users/imoran"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:45:54",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r5p33",
+        "id": 5226961,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19638,
+            "login": "esantos",
+            "url": "https://api.intra.42.fr/v2/users/esantos"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:43:35",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r4p38",
+        "id": 5226960,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 23041,
+            "login": "vmakarov",
+            "url": "https://api.intra.42.fr/v2/users/vmakarov"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:36:37",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r2p1",
+        "id": 5226959,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19781,
+            "login": "rromero",
+            "url": "https://api.intra.42.fr/v2/users/rromero"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:25:41",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "dump-bocal-test",
+        "id": 5226956,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 18510,
+            "login": "max",
+            "url": "https://api.intra.42.fr/v2/users/max"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:23:39",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r1p8",
+        "id": 5226955,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19745,
+            "login": "rmatos",
+            "url": "https://api.intra.42.fr/v2/users/rmatos"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:22:38",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r6p8",
+        "id": 5226954,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 19796,
+            "login": "zbeasley",
+            "url": "https://api.intra.42.fr/v2/users/zbeasley"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:14:50",
+        "campus_id": 7,
+        "end_at": "2017-02-24T18:00:04",
+        "floor": null,
+        "host": "e1z2r9p9",
+        "id": 5226953,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19711,
+            "login": "iiliuk",
+            "url": "https://api.intra.42.fr/v2/users/iiliuk"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:14:36",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p7",
+        "id": 5226952,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19717,
+            "login": "lgutniko",
+            "url": "https://api.intra.42.fr/v2/users/lgutniko"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:14:10",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r8p2",
+        "id": 5226951,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 20929,
+            "login": "csandjon",
+            "url": "https://api.intra.42.fr/v2/users/csandjon"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:12:29",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r6p21",
+        "id": 5226950,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19620,
+            "login": "kialvare",
+            "url": "https://api.intra.42.fr/v2/users/kialvare"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:10:48",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r7p25",
+        "id": 5226949,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21065,
+            "login": "hkunduru",
+            "url": "https://api.intra.42.fr/v2/users/hkunduru"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:06:34",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r8p32",
+        "id": 5226948,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19648,
+            "login": "mfriedri",
+            "url": "https://api.intra.42.fr/v2/users/mfriedri"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:05:30",
+        "campus_id": 7,
+        "end_at": "2017-02-24T18:00:05",
+        "floor": null,
+        "host": "e1z3r7p9",
+        "id": 5226947,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 10992,
+            "login": "lfussler",
+            "url": "https://api.intra.42.fr/v2/users/lfussler"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:03:39",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r6p17",
+        "id": 5226946,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19660,
+            "login": "jcapling",
+            "url": "https://api.intra.42.fr/v2/users/jcapling"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T17:03:26",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r3p7",
+        "id": 5226945,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 23265,
+            "login": "bburnley",
+            "url": "https://api.intra.42.fr/v2/users/bburnley"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:56:41",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p12",
+        "id": 5226943,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 20940,
+            "login": "elee",
+            "url": "https://api.intra.42.fr/v2/users/elee"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:56:41",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p10",
+        "id": 5226944,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21261,
+            "login": "lepetit",
+            "url": "https://api.intra.42.fr/v2/users/lepetit"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:55:26",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p6",
+        "id": 5226942,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21231,
+            "login": "dpomerle",
+            "url": "https://api.intra.42.fr/v2/users/dpomerle"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:55:20",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p18",
+        "id": 5226941,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21138,
+            "login": "aphan",
+            "url": "https://api.intra.42.fr/v2/users/aphan"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:52:20",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r9p19",
+        "id": 5226940,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22923,
+            "login": "rschramm",
+            "url": "https://api.intra.42.fr/v2/users/rschramm"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:52:20",
+        "campus_id": 7,
+        "end_at": "2017-02-24T18:00:07",
+        "floor": null,
+        "host": "e1z3r8p22",
+        "id": 5226939,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 12765,
+            "login": "tfleming",
+            "url": "https://api.intra.42.fr/v2/users/tfleming"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:49:58",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p33",
+        "id": 5226938,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21134,
+            "login": "thendric",
+            "url": "https://api.intra.42.fr/v2/users/thendric"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:49:21",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p23",
+        "id": 5226937,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21059,
+            "login": "eliu",
+            "url": "https://api.intra.42.fr/v2/users/eliu"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:49:18",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p37",
+        "id": 5226936,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 20952,
+            "login": "anieto",
+            "url": "https://api.intra.42.fr/v2/users/anieto"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:47:29",
+        "campus_id": 7,
+        "end_at": "2017-02-24T17:50:08",
+        "floor": null,
+        "host": "e1z2r10p6",
+        "id": 5226935,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 23033,
+            "login": "imoran",
+            "url": "https://api.intra.42.fr/v2/users/imoran"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:47:24",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r6p2",
+        "id": 5226934,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22930,
+            "login": "sijang",
+            "url": "https://api.intra.42.fr/v2/users/sijang"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:46:34",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r3p11",
+        "id": 5226933,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19679,
+            "login": "azhuk",
+            "url": "https://api.intra.42.fr/v2/users/azhuk"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:41:13",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r2p14",
+        "id": 5226930,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21069,
+            "login": "bpatel",
+            "url": "https://api.intra.42.fr/v2/users/bpatel"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:38:14",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r8p5",
+        "id": 5226928,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 19691,
+            "login": "ksaetern",
+            "url": "https://api.intra.42.fr/v2/users/ksaetern"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:35:31",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p48",
+        "id": 5226927,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19683,
+            "login": "ebucheit",
+            "url": "https://api.intra.42.fr/v2/users/ebucheit"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:34:34",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r7p7",
+        "id": 5226926,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 11411,
+            "login": "cducaffy",
+            "url": "https://api.intra.42.fr/v2/users/cducaffy"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:27:02",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r4p28",
+        "id": 5226924,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19740,
+            "login": "vpetrush",
+            "url": "https://api.intra.42.fr/v2/users/vpetrush"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:25:18",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p17",
+        "id": 5226923,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19645,
+            "login": "mgrimes",
+            "url": "https://api.intra.42.fr/v2/users/mgrimes"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:21:13",
+        "campus_id": 7,
+        "end_at": "2017-02-24T17:20:07",
+        "floor": null,
+        "host": "e1z3r2p22",
+        "id": 5226919,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 18770,
+            "login": "abourgeu",
+            "url": "https://api.intra.42.fr/v2/users/abourgeu"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:21:11",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r1p10",
+        "id": 5226918,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 19675,
+            "login": "rpassafa",
+            "url": "https://api.intra.42.fr/v2/users/rpassafa"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:20:44",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r5p34",
+        "id": 5226917,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21032,
+            "login": "gselbo",
+            "url": "https://api.intra.42.fr/v2/users/gselbo"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:20:42",
+        "campus_id": 7,
+        "end_at": "2017-02-24T17:57:01",
+        "floor": null,
+        "host": "e1z3r2p3",
+        "id": 5226916,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19300,
+            "login": "fcaron",
+            "url": "https://api.intra.42.fr/v2/users/fcaron"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:15:57",
+        "campus_id": 7,
+        "end_at": "2017-02-24T17:51:01",
+        "floor": null,
+        "host": "e1z2r3p37",
+        "id": 5226913,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 20947,
+            "login": "smifsud",
+            "url": "https://api.intra.42.fr/v2/users/smifsud"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:13:01",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p22",
+        "id": 5226912,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19779,
+            "login": "akalmyko",
+            "url": "https://api.intra.42.fr/v2/users/akalmyko"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:10:08",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r6p25",
+        "id": 5226911,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 19658,
+            "login": "nengle-",
+            "url": "https://api.intra.42.fr/v2/users/nengle-"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:06:10",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r3p23",
+        "id": 5226910,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22925,
+            "login": "kromain",
+            "url": "https://api.intra.42.fr/v2/users/kromain"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T16:01:08",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p43",
+        "id": 5226909,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21219,
+            "login": "imurawsk",
+            "url": "https://api.intra.42.fr/v2/users/imurawsk"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:53:07",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r2p4",
+        "id": 5226908,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21143,
+            "login": "jpiva",
+            "url": "https://api.intra.42.fr/v2/users/jpiva"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:51:05",
+        "campus_id": 7,
+        "end_at": "2017-02-24T17:26:01",
+        "floor": null,
+        "host": "e1z2r7p2",
+        "id": 5226907,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 21046,
+            "login": "pvan-erp",
+            "url": "https://api.intra.42.fr/v2/users/pvan-erp"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:42:08",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r3p33",
+        "id": 5226903,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 22984,
+            "login": "mburson",
+            "url": "https://api.intra.42.fr/v2/users/mburson"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:35:51",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r1p5",
+        "id": 5226901,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19814,
+            "login": "lhurt",
+            "url": "https://api.intra.42.fr/v2/users/lhurt"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:33:49",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r3p14",
+        "id": 5226898,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 20969,
+            "login": "gli",
+            "url": "https://api.intra.42.fr/v2/users/gli"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:31:48",
+        "campus_id": 7,
+        "end_at": "2017-02-24T17:55:04",
+        "floor": null,
+        "host": "e1z2r7p30",
+        "id": 5226894,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19623,
+            "login": "pswanson",
+            "url": "https://api.intra.42.fr/v2/users/pswanson"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:26:48",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:50:05",
+        "floor": null,
+        "host": "e1z3r8p22",
+        "id": 5226890,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 20990,
+            "login": "jjia",
+            "url": "https://api.intra.42.fr/v2/users/jjia"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:25:55",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:50:06",
+        "floor": null,
+        "host": "Bocals-iMac-180.local",
+        "id": 5226889,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 18510,
+            "login": "max",
+            "url": "https://api.intra.42.fr/v2/users/max"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:25:43",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r8p10",
+        "id": 5226888,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22885,
+            "login": "mputsala",
+            "url": "https://api.intra.42.fr/v2/users/mputsala"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:21:52",
+        "campus_id": 7,
+        "end_at": "2017-02-24T17:56:01",
+        "floor": null,
+        "host": "e1z3r2p5",
+        "id": 5226885,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 10866,
+            "login": "sraccah",
+            "url": "https://api.intra.42.fr/v2/users/sraccah"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:20:55",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:40:07",
+        "floor": null,
+        "host": "e1z2r9p22",
+        "id": 5226884,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19779,
+            "login": "akalmyko",
+            "url": "https://api.intra.42.fr/v2/users/akalmyko"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:20:45",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:40:09",
+        "floor": null,
+        "host": "e1z3r4p18",
+        "id": 5226883,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 22916,
+            "login": "zmichels",
+            "url": "https://api.intra.42.fr/v2/users/zmichels"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:19:50",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:52:02",
+        "floor": null,
+        "host": "e1z2r8p12",
+        "id": 5226881,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22972,
+            "login": "dcastro-",
+            "url": "https://api.intra.42.fr/v2/users/dcastro-"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:19:09",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r7p8",
+        "id": 5226879,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 12765,
+            "login": "tfleming",
+            "url": "https://api.intra.42.fr/v2/users/tfleming"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:17:38",
+        "campus_id": 7,
+        "end_at": "2017-02-24T17:05:01",
+        "floor": null,
+        "host": "e1z2r9p11",
+        "id": 5226878,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19744,
+            "login": "iwithmor",
+            "url": "https://api.intra.42.fr/v2/users/iwithmor"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:16:42",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r2p2",
+        "id": 5226877,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 17294,
+            "login": "brel-baz",
+            "url": "https://api.intra.42.fr/v2/users/brel-baz"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:13:54",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r6p5",
+        "id": 5226875,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 22998,
+            "login": "sleung",
+            "url": "https://api.intra.42.fr/v2/users/sleung"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:13:46",
+        "campus_id": 7,
+        "end_at": "2017-02-24T17:05:02",
+        "floor": null,
+        "host": "e1z2r9p13",
+        "id": 5226874,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19735,
+            "login": "mrobinso",
+            "url": "https://api.intra.42.fr/v2/users/mrobinso"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:12:49",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r5p31",
+        "id": 5226873,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19622,
+            "login": "dsantacr",
+            "url": "https://api.intra.42.fr/v2/users/dsantacr"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:12:44",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:21:24",
+        "floor": null,
+        "host": "e1z3r1p16",
+        "id": 5226872,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19773,
+            "login": "aganesh",
+            "url": "https://api.intra.42.fr/v2/users/aganesh"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:09:43",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:21:38",
+        "floor": null,
+        "host": "e1z2r8p1",
+        "id": 5226871,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 20969,
+            "login": "gli",
+            "url": "https://api.intra.42.fr/v2/users/gli"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:08:18",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p3",
+        "id": 5226869,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19042,
+            "login": "nterol",
+            "url": "https://api.intra.42.fr/v2/users/nterol"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:08:17",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p1",
+        "id": 5226868,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 18760,
+            "login": "mhalit",
+            "url": "https://api.intra.42.fr/v2/users/mhalit"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:06:53",
+        "campus_id": 7,
+        "end_at": "2017-02-24T17:00:02",
+        "floor": null,
+        "host": "e1z3r1p8",
+        "id": 5226867,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19745,
+            "login": "rmatos",
+            "url": "https://api.intra.42.fr/v2/users/rmatos"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:05:55",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:21:57",
+        "floor": null,
+        "host": "e1z2r4p28",
+        "id": 5226865,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19740,
+            "login": "vpetrush",
+            "url": "https://api.intra.42.fr/v2/users/vpetrush"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:05:45",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r2p4",
+        "id": 5226864,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 18826,
+            "login": "jubougno",
+            "url": "https://api.intra.42.fr/v2/users/jubougno"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:05:15",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r4p24",
+        "id": 5226863,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21017,
+            "login": "daksiuts",
+            "url": "https://api.intra.42.fr/v2/users/daksiuts"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:05:03",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:10:11",
+        "floor": null,
+        "host": "Bocals-iMac-180.local",
+        "id": 5226862,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 18510,
+            "login": "max",
+            "url": "https://api.intra.42.fr/v2/users/max"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:04:48",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:00:09",
+        "floor": null,
+        "host": "e1z3r5p18",
+        "id": 5226861,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22923,
+            "login": "rschramm",
+            "url": "https://api.intra.42.fr/v2/users/rschramm"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T15:04:45",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r4p26",
+        "id": 5226860,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19682,
+            "login": "nshuklin",
+            "url": "https://api.intra.42.fr/v2/users/nshuklin"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:56:30",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r2p6",
+        "id": 5226859,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 16008,
+            "login": "alouisy-",
+            "url": "https://api.intra.42.fr/v2/users/alouisy-"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:55:38",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r6p6",
+        "id": 5226858,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 21104,
+            "login": "bgilliam",
+            "url": "https://api.intra.42.fr/v2/users/bgilliam"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:55:07",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:30:01",
+        "floor": null,
+        "host": "e1z2r3p7",
+        "id": 5226857,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 23265,
+            "login": "bburnley",
+            "url": "https://api.intra.42.fr/v2/users/bburnley"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:53:50",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:23:01",
+        "floor": null,
+        "host": "e1z2r2p14",
+        "id": 5226856,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21069,
+            "login": "bpatel",
+            "url": "https://api.intra.42.fr/v2/users/bpatel"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:53:47",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r7p2",
+        "id": 5226855,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22924,
+            "login": "mroen",
+            "url": "https://api.intra.42.fr/v2/users/mroen"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:53:02",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r2p8",
+        "id": 5226854,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 15944,
+            "login": "asurrel",
+            "url": "https://api.intra.42.fr/v2/users/asurrel"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:52:42",
+        "campus_id": 7,
+        "end_at": "2017-02-24T15:54:01",
+        "floor": null,
+        "host": "e1z2r9p37",
+        "id": 5226853,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 20952,
+            "login": "anieto",
+            "url": "https://api.intra.42.fr/v2/users/anieto"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:51:41",
+        "campus_id": 7,
+        "end_at": "2017-02-24T15:24:01",
+        "floor": null,
+        "host": "e1z2r5p13",
+        "id": 5226852,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22972,
+            "login": "dcastro-",
+            "url": "https://api.intra.42.fr/v2/users/dcastro-"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:51:36",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r1p12",
+        "id": 5226851,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22959,
+            "login": "cfu",
+            "url": "https://api.intra.42.fr/v2/users/cfu"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:50:39",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:46:01",
+        "floor": null,
+        "host": "e1z2r9p23",
+        "id": 5226849,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21059,
+            "login": "eliu",
+            "url": "https://api.intra.42.fr/v2/users/eliu"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:45:49",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r5p19",
+        "id": 5226848,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 23268,
+            "login": "ewilliam",
+            "url": "https://api.intra.42.fr/v2/users/ewilliam"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:45:39",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r3p3",
+        "id": 5226847,
+        "post": null,
+        "primary": false,
+        "row": null,
+        "user": {
+            "id": 22950,
+            "login": "rlutt",
+            "url": "https://api.intra.42.fr/v2/users/rlutt"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:45:32",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r3p1",
+        "id": 5226846,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 22952,
+            "login": "mkok",
+            "url": "https://api.intra.42.fr/v2/users/mkok"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:40:39",
+        "campus_id": 7,
+        "end_at": "2017-02-24T15:16:01",
+        "floor": null,
+        "host": "e1z2r7p39",
+        "id": 5226840,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 12765,
+            "login": "tfleming",
+            "url": "https://api.intra.42.fr/v2/users/tfleming"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:36:11",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:18:17",
+        "floor": null,
+        "host": "e1z2r8p11",
+        "id": 5226839,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 18770,
+            "login": "abourgeu",
+            "url": "https://api.intra.42.fr/v2/users/abourgeu"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:35:33",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r10p1",
+        "id": 5226838,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21068,
+            "login": "ddowty",
+            "url": "https://api.intra.42.fr/v2/users/ddowty"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:31:36",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z2r9p4",
+        "id": 5226837,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21083,
+            "login": "obelange",
+            "url": "https://api.intra.42.fr/v2/users/obelange"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:29:33",
+        "campus_id": 7,
+        "end_at": null,
+        "floor": null,
+        "host": "e1z3r7p19",
+        "id": 5226834,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21035,
+            "login": "jshi",
+            "url": "https://api.intra.42.fr/v2/users/jshi"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:29:09",
+        "campus_id": 7,
+        "end_at": "2017-02-24T15:10:04",
+        "floor": null,
+        "host": "e1z3r1p8",
+        "id": 5226833,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 19745,
+            "login": "rmatos",
+            "url": "https://api.intra.42.fr/v2/users/rmatos"
+        }
+    },
+    {
+        "begin_at": "2017-02-24T14:27:34",
+        "campus_id": 7,
+        "end_at": "2017-02-24T16:18:02",
+        "floor": null,
+        "host": "e1z2r7p5",
+        "id": 5226832,
+        "post": null,
+        "primary": true,
+        "row": null,
+        "user": {
+            "id": 21102,
+            "login": "jargote",
+            "url": "https://api.intra.42.fr/v2/users/jargote"
+        }
+    }
+]
