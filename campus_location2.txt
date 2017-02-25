@@ -1,4 +1,0 @@
-{
-    "error": "Not authorized",
-    "message": "The access token is invalid"
-}

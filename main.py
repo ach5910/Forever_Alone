@@ -1,9 +1,7 @@
 import requests
-import requests.auth
 import sys
+import os
 import simplejson as json
-UID = "c1f721a77b82a71e497db588d5bfc6b6b96a4fc9454fb62a701dff0c46a38c3c"
-SECRET = "5ef096a31f5a73425c180fd311a2bc43002fae6d24bad8b7205b0ee3743ec65f"
 
 class bcolors:
 	HEADER = '\033[95m'
@@ -18,8 +16,8 @@ class bcolors:
 def get_token():
 	args = [
 		'grant_type=client_credentials',
-		'client_id=secret',
-		'client_secret=secret',
+		'client_id=' + os.environ['FA_UID'],
+		'client_secret=' + os.environ['FA_SECRET'],
 	]
 	client = requests.post("https://api.intra.42.fr/oauth/token?%s" % ("&".join(args)))
 	token_json = client.json()
@@ -30,32 +28,43 @@ def read_names():
 	with open(filename) as n_file:
 		names = n_file.read().splitlines()
 	return names
+
 def init_location(names):
 	loc = names[:];
 	for i in range(len(names)):
 		loc[i] = 'Not Active'
 	return loc
+
+def print_success(names, loc, i):
+	z = loc[i].index('z')
+	r = loc[i].index('r')
+	p = loc[i].index('p')
+	print (bcolors.OKGREEN + 'User:  \'' + names[i] + "\'" + bcolors.ENDC + '\n' +
+		bcolors.OKGREEN + "Host:  " + loc[i] +
+		'  Zone: ' + loc[i][z + 1:r] + '  Row: ' + loc[i][r + 1:p]
+		+ '  Position: ' + loc[i][p + 1:] + bcolors.ENDC)
+
+def print_fail(names, i):
+	print(bcolors.FAIL + 'User:  \'' + names[i] +
+		'\'' + bcolors.ENDC + '\n' +
+		bcolors.FAIL + 'Error:  Does Not Exist' + bcolors.ENDC)
+
+def print_warning(names, i):
+	print(bcolors.WARNING + 'User:  \'' + names[i] + '\'' + bcolors.ENDC +
+		'\n' + bcolors.WARNING + 'Error:  Not Active' + bcolors.ENDC)
+
 token = get_token()
 names = read_names()
 loc = init_location(names)
 for i in range(len(names)):
-	status = requests.post('http://api.intra.42.fr/v2/users/' + names[i] + '/locations?access_token=' + token + '&filter[active]=true')
+	status = requests.post('http://api.intra.42.fr/v2/users/' + names[i] +
+		'/locations?access_token=' + token + '&filter[active]=true')
 	response = status.json()
 	if status.status_code != 200:
-		loc[i] = 'User Does Not Exist'
-		print(bcolors.FAIL + 'User:  \'' + names[i] +
-			'\'' + bcolors.ENDC + '\n' +
-			bcolors.FAIL + 'Error:  Does Not Exist' + bcolors.ENDC)
+		print_fail(names, i)
 	elif response and names[i] == response[0]['user']['login']:
 		loc[i] = response[0]['host']
-		z = loc[i].index('z')
-		r = loc[i].index('r')
-		p = loc[i].index('p')
-		print (bcolors.OKGREEN + 'User:  \'' + names[i] + "\'" + bcolors.ENDC + '\n' +
-			bcolors.OKGREEN + "Host:  " + loc[i] +
-			'  Zone: ' + loc[i][z + 1:r] + '  Row: ' + loc[i][r + 1:p]
-			+ '  Position: ' + loc[i][p + 1:] + bcolors.ENDC)
+		print_success(names, loc, i)
 	else:
-		print(bcolors.WARNING + 'User:  \'' + names[i] + '\'' + bcolors.ENDC +
-			'\n' + bcolors.WARNING + 'Error:  Not Active' + bcolors.ENDC)
+		print_warning(names, i)
 	print ''
